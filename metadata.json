@@ -1,0 +1,6 @@
+{
+  "name": "Jirakit Construction POS & ERP",
+  "description": "ระบบจัดการร้านเช่า/ขายอุปกรณ์ก่อสร้างแบบครบวงจร ทํางานออกบิล คืนของ ตัดสต็อก บันทึกบัญชี และสถิติรายได้",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
